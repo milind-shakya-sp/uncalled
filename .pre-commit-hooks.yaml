@@ -1,0 +1,7 @@
+---
+- id: uncalled
+  name: uncalled
+  entry: uncalled
+  language: python
+  description: Find unused functions in Python projects.
+
